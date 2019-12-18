@@ -1,2 +1,2 @@
-# DynamoDancerBuild
-A public prototype of Dynamo Dancer
+# Prototypes
+This repository serves to host all of my prototypes.
